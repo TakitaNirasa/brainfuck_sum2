@@ -16,6 +16,8 @@
 
 ## Решение:
 
+![Задача](https://github.com/TakitaNirasa/brainfuck_sum2/blob/main/scr/code.png)
+
 ## [Код в нормальном виде](https://github.com/TakitaNirasa/brainfuck_sum2/blob/main/sum2_unreadable.bf)
 ## [Код в читаемом виде](https://github.com/TakitaNirasa/brainfuck_sum2/blob/main/sum2_readable.bf)
 
