@@ -1,6 +1,6 @@
-# TWO SUMS на BRAINFUCK
+# TWO SUM на BRAINFUCK
 
-Есть такая задачка на leetcode.com, называется "two sums"
+Есть такая задачка на leetcode.com, называется ["two sum"](https://leetcode.com/problems/two-sum/)
 
 Задача состоит в следующем:  
 
